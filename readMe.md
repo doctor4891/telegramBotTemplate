@@ -9,6 +9,7 @@
 **Set** `response.log 777`
 
 **Run SQL**
+
 SQL file in ddl folder
 
 **Run** `composer update`
