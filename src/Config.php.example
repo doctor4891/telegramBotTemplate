@@ -1,0 +1,14 @@
+<?php
+
+
+namespace src;
+
+
+class Config
+{
+    public static $token;
+    public static $dbHost;
+    public static $dbName;
+    public static $dbUser;
+    public static $dbPass;
+}

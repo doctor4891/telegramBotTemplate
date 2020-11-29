@@ -1,0 +1,11 @@
+.idea
+vendor
+composer.lock
+src/Config.php
+response.log
+.editorconfig
+phpunit.phar
+.phpunit.result.cache
+info.txt
+.php_cs.cache
+.php_cs.dist
